@@ -27,13 +27,25 @@ export const siteConfig = {
 	],
 	navMenuItems: [
 		{
-			label: "Profile",
-			href: "/profile",
+			label: "Home",
+			href: "/",
 		},
-		{
-			label: "Logout",
-			href: "/logout",
-		},
+    	{
+      		label: "About",
+      		href: "/about",
+    	},
+    	{
+      		label: "Experience",
+      		href: "/experience",
+    	},
+    	{
+      		label: "Blog",
+      		href: "/blog",
+    	},
+    	{
+      		label: "Contact",
+      		href: "/contact",
+    	}
 	],
 	links: {
 		github: "https://github.com/nextui-org/nextui",
