@@ -12,7 +12,7 @@ This project is built using NextJS 13 and NextUI 2.0
 - `public/*` - Static assets including robots.txt
 - `data/*` - a simple object containing global data about the site.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Initiate project : ```bash npx create-next-app -e https://github.com/nextui-org/next-app-template```
 
 ## Getting Started
 
